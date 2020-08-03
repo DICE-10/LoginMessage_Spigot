@@ -1,0 +1,3 @@
+# LoginMessage_Spigot
+Spigotにてログインメッセージを出力するサンプルです。
+ビルドしてから「plugins」フォルダに入れてSpigotサーバーを起動してみてください。
