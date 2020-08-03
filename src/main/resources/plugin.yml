@@ -1,0 +1,7 @@
+name: LoginMessage
+version: @version@
+main: com.diceprogrammingetc.loginmessage.LoginMessage
+api-version: 1.15
+authors: [DICE]
+description: output login message.
+website: https://www.dice-programming-etc.com
